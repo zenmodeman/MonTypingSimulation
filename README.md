@@ -1,2 +1,2 @@
-# PokemonTypingSimulation
-This repo generates a simplified Pokemon combat similation to aid with type analysis
+# MonTypingSimulation
+This repo generates a simplified Mon combat similation to aid with type analysis.
